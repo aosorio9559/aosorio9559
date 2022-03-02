@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React.js, Next.js & Docker**
 
-- 👨‍💻 Some of my projects are available at [https://aosorio9559.github.io/me](https://aosorio9559.github.io/me)
+- 👨‍💻 Some of my projects are available at: [https://aosorio9559.github.io/me](https://aosorio9559.github.io/me)
 
-- 📫 How to reach me **aosorio9559@gmail.com**
+- 📫 How to reach me: **aosorio9559@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alejandro-osorio-diaz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-osorio-diaz" height="30" width="40" />
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/alejandro-osorio-diaz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-osorio-diaz" height="30" width="40" />
   </a>
 </p>
