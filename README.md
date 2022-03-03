@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://aosorio9559.github.io/me" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/72823831/156475960-8d0867ba-94ac-4309-b8e1-a072a1abd1c9.png" alt="Alejandro Osorio Díaz">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate software developer looking to contribute on Open Source projects</h3>
 
