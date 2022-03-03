@@ -19,7 +19,8 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
+      title="Angular"
+      alt="Angular"
       width="40"
       height="40"
     />
@@ -27,7 +28,8 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      title="Bootstrap"
+      alt="Bootstrap"
       width="40"
       height="40"
     />
@@ -35,7 +37,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
+      title="CSS3"
+      alt="CSS3"
       width="40"
       height="40"
     />
@@ -43,15 +46,17 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
+      title="Docker"
+      alt="Docker"
       width="40"
       height="40"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
+      title="Express"
+      alt="Express"
       width="40"
       height="40"
     />
@@ -59,7 +64,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
+      title="Flask"
+      alt="Flask"
       width="40"
       height="40"
     />
