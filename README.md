@@ -69,7 +69,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://user-images.githubusercontent.com/72823831/156674369-b654ab43-b2a7-4b80-9575-a84fd0907974.PNG"
       title="Flask"
       alt="Flask"
       width="40"
@@ -149,7 +149,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      src="https://user-images.githubusercontent.com/72823831/156675237-a270cdaa-6e70-4e0f-9b4f-e318855d2256.PNG"
       title="SQL Server"
       alt="SQL Server"
       width="40"
@@ -158,7 +158,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://user-images.githubusercontent.com/72823831/156675036-1cf11b0d-994d-4177-8d1a-a1344e002e9b.PNG"
       title="Next.js"
       alt="Next.js"
       width="40"
