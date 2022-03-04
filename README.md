@@ -230,25 +230,22 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
+<p align="center">
+  <img    
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aosorio9559&show_icons=true&theme=cobalt&locale=en&layout=compact"
     alt="aosorio9559"
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=aosorio9559&show_icons=true&theme=cobalt&locale=en"
     alt="aosorio9559"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aosorio9559&theme=dark"
     alt="aosorio9559"
   />
