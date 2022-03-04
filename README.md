@@ -158,7 +158,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://user-images.githubusercontent.com/72823831/156675036-1cf11b0d-994d-4177-8d1a-a1344e002e9b.PNG"
+      src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"
       title="Next.js"
       alt="Next.js"
       width="40"
