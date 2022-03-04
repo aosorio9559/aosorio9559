@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://aosorio9559.github.io/me" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/72823831/156476418-cc2727a1-7f9e-4611-a239-80c19016530f.png" alt="Alejandro Osorio Díaz">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate software developer looking to contribute on Open Source projects</h3>
 
@@ -10,7 +16,7 @@
 <h3>Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/alejandro-osorio-diaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-osorio-diaz" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="https://linkedin.com/in/alejandro-osorio-diaz" alt="alejandro-osorio-diaz" height="30" width="40" />
   </a>
 </p>
 
